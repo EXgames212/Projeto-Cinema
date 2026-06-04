@@ -5,3 +5,7 @@ Durante o desenvolvimento foram realizadas algumas alterações em relação ao 
 Também foi ajustado o processo de avaliação para que os dados sejam atualizados em uma obra já existente, evitando a criação de registros duplicados. Além disso, o controle de conclusão passou a funcionar tanto para séries quanto para filmes, tornando as informações armazenadas mais completas.
 
 Ao final, o sistema conseguiu atender aos objetivos propostos, permitindo cadastrar, pesquisar, listar e avaliar obras de forma organizada, utilizando conceitos fundamentais da linguagem JavaScript como funções, arrays, objetos, estruturas condicionais e estruturas de repetição.
+
+Guilherme Madeira
+Gilberto Soares
+Joaquim Adriano
