@@ -1,1 +1,7 @@
+As informações das obras são armazenadas em um array de objetos contendo dados como nome, tipo, nota, análise, status de curtida, status de conclusão e quantidade de episódios vistos. Para organizar o código, foram utilizadas funções específicas para cada operação, além de estruturas condicionais para tomada de decisões e estruturas de repetição para manter o menu em funcionamento e percorrer os registros armazenados.
 
+Durante o desenvolvimento foram realizadas algumas alterações em relação ao planejamento inicial. Inicialmente, as obras só eram registradas após receberem uma avaliação, o que fazia com que não aparecessem na listagem caso fossem apenas adicionadas à lista. Esse comportamento foi corrigido para que o cadastro ocorra imediatamente após a confirmação do usuário.
+
+Também foi ajustado o processo de avaliação para que os dados sejam atualizados em uma obra já existente, evitando a criação de registros duplicados. Além disso, o controle de conclusão passou a funcionar tanto para séries quanto para filmes, tornando as informações armazenadas mais completas.
+
+Ao final, o sistema conseguiu atender aos objetivos propostos, permitindo cadastrar, pesquisar, listar e avaliar obras de forma organizada, utilizando conceitos fundamentais da linguagem JavaScript como funções, arrays, objetos, estruturas condicionais e estruturas de repetição.
