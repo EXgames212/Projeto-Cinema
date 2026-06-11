@@ -1,3 +1,5 @@
+Gilberto Soares, Guilherme Madeira, Joaquim Adriano
+
 # Projeto-Cinema
    Sistema de catalogo de filmes e series
 -Um projeto feito em javascript que faz o usuario analisar e catalogar filmes e series
